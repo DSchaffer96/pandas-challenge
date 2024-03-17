@@ -1,0 +1,9 @@
+	Looking at the school summary, there's a noticable disparity between district and charter schools in a few aspects. There seems to be a gap in math scores/passing rates between charter schools and high schools, with charter schools being much higher. The gap in reading scores/passing rates between the two types of schools seems to be narrower. However, charter schools still seem to be higher. All of the charter schools have overall passing rates of at least 89, while all of the district schools are below average. Most of the charter school have lower budgets and spending rates and the district schools. Both types of schools perform well in reading, however district schools lower in math
+
+	The charts showing the highest and lowest performing schools show that the best schools are indeed charter schools, while all of the worst ones are district.
+
+	The district schools tend to spend more than the charter schools. All but one of the district schools are in the top 2 spending bins, the lowest spending one has the highest passing rate but only by a small margin. On the other hand, all but one of the charter schools are in the bottom 2 spending bins. The higher spending didnt have an impact on grades or passing rate. Overall, scores and passing rates go down as the spending rates get higher.
+
+	The charter schools tend to have fewer students than the district schools. Small and medium schools seem to have higher scores and passing rates than large schools. However, the only "large" charter school had similar scores and passing rates to other charter schools.
+
+	Evidence overwhelmingly points to charter schools being the better of the types of school. However since the size and spending didn't seem to have an impact on grades or passing rates, the charter schools must have better management or resources leading to better performance.
